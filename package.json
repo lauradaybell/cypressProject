@@ -1,0 +1,23 @@
+{
+  "name": "cypressproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^6.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cypress-open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauradaybell/cypressProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauradaybell/cypressProject/issues"
+  },
+  "homepage": "https://github.com/lauradaybell/cypressProject#readme"
+}
